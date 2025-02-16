@@ -1,7 +1,7 @@
 # iPhone Specifications
 
 ## iPhone 15 & 15 Plus
-- **Processor**: A18 Bionic Chip
+- **Processor**: A20 Bionic Chip
 - **Display**: 6.1" (iPhone 15), 6.7" (iPhone 15 Plus) Super Retina XDR
 - **Camera**: Dual 48MP Main + 12MP Ultra Wide
 - **Battery Life**: Up to 20 hours video playback
